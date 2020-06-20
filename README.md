@@ -12,8 +12,6 @@ The entire code is developed by Sikakollu Prasanth during 2019-2020. The size of
 
 It requires Keras library installed with either Theano or Tensorflow as backend. It also requires spectral, numpy, scipy, sklearn, skimage libraries to be installed for the code to run successfully. There are no specific hardware requirements.
 
-'Dataset' folder contains three standard datasets for HSI classification - Indian Pines, Pavia University and Salinas datasets.
-
 There are six Python files in this repository. 'main.py' imports the other five files for execution of the code. The five files contains function definitions to accomplish the tasks.
 
 The code can be executed by running 'main.py' file. The output is the prediction map obtained from mean ensemble of four individual classifiers. It is saved as .mat file in data folder.
