@@ -1,4 +1,4 @@
-Title: Ensemble of multiple CNN Classifiers for HSI classification with Superpixel Smoothing
+Title of the paper: Ensemble of multiple CNN Classifiers for HSI classification with Superpixel Smoothing
 
 Authors: Sikakollu Prasanth and Ratnakar Dash (Corresponding Author)
 
