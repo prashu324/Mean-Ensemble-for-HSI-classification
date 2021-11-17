@@ -1,4 +1,5 @@
 Title of the paper: Ensemble of multiple CNN Classifiers for HSI classification with Superpixel Smoothing
+https://www.sciencedirect.com/science/article/pii/S0098300421001047?via%3Dihub
 
 Authors: Sikakollu Prasanth and Ratnakar Dash (Corresponding Author)
 
